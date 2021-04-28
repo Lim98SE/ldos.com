@@ -1,0 +1,39 @@
+body{
+	font-family: sans-serif;
+	color: white;
+	background-color: black;
+	font-size: 25;
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+a{
+	color: blue;
+	text-decoration: none;
+	font-weight: lighter;
+}
+.about{
+	font-size: 15;
+	font-weight: lighter;
+	font-style: italic;
+}
+.fl{
+	border-left: 2px solid white;
+	padding-left: 3px;
+}
+.nb{
+	border-right: 2px solid white;
+	padding-right: 3px;
+}
+.left{
+	text-align: left;
+}
+a:hover{
+	color: #0091ff;
+}
+.smol{
+	font-size: 15;
+	font-weight: lighter;
+}
